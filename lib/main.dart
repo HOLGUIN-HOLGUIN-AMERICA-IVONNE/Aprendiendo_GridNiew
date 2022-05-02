@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:holguin/GVempleados.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(HomeDepotApp());
 }
 
-class MyApp extends StatelessWidget {
+class HomeDepotApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
