@@ -14,6 +14,6 @@ class HomeDepotApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.green,
         ),
-        home: MyHomePage());
+        home: Paginainicial());
   }
 }
